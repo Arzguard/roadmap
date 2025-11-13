@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>TechSafari - Smartphones, Laptops & Accessories</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+        }
+
+        header {
+            background: #000;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        .product {
+            background: #fff;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>TechSafari</h1>
+        <p>Your Trusted Tech Store</p>
+    </header>
+
+    <section>
+        <h2>Popular Products</h2>
+
+        <div class="product">
+            <strong>iPhone 13</strong><br>
+            KES 65,000
+        </div>
+
+        <div class="product">
+            <strong>Samsung S21</strong><br>
+            KES 48,000
+        </div>
+
+        <div class="product">
+            <strong>HP Laptop 15</strong><br>
+            KES 42,000
+        </div>
+    </section>
+
+</body>
+
+</html>
